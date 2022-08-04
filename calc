@@ -1,3 +1,5 @@
+```C++
+
 #include <iostream.h>
 #include <string.h>
 #include <conio.h>
@@ -122,3 +124,4 @@ float bl;
 bl = log10(x);
 cout<<"LOG with Base 10: "<<bl;
 }
+```
